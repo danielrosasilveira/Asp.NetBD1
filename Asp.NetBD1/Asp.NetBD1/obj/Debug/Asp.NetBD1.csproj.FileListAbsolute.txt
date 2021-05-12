@@ -68,4 +68,3 @@ D:\OneDrive\Área de Trabalho\Asp.NetBD1\Asp.NetBD1\Asp.NetBD1\obj\Debug\Asp.Net
 D:\OneDrive\Área de Trabalho\Asp.NetBD1\Asp.NetBD1\Asp.NetBD1\obj\Debug\Asp.NetBD1.csproj.CopyComplete
 D:\OneDrive\Área de Trabalho\Asp.NetBD1\Asp.NetBD1\Asp.NetBD1\obj\Debug\Asp.NetBD1.dll
 D:\OneDrive\Área de Trabalho\Asp.NetBD1\Asp.NetBD1\Asp.NetBD1\obj\Debug\Asp.NetBD1.pdb
-D:\OneDrive\Área de Trabalho\Asp.NetBD1\Asp.NetBD1\Asp.NetBD1\obj\Debug\Asp.NetBD1.csprojAssemblyReference.cache

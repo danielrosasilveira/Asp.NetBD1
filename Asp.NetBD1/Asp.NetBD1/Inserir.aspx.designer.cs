@@ -11,7 +11,7 @@ namespace Asp.NetBD1
 {
 
 
-    public partial class Inserir1
+    public partial class Inserir
     {
 
         /// <summary>
@@ -39,7 +39,7 @@ namespace Asp.NetBD1
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RegularExpressionValidator rfvLogradouro;
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvLogradouro;
 
         /// <summary>
         /// txtLogradouro control.
@@ -114,13 +114,13 @@ namespace Asp.NetBD1
         protected global::System.Web.UI.WebControls.TextBox txtCidade;
 
         /// <summary>
-        /// rfvUF control.
+        /// rfvEstado control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvUF;
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvEstado;
 
         /// <summary>
         /// txtUF control.
@@ -132,13 +132,13 @@ namespace Asp.NetBD1
         protected global::System.Web.UI.WebControls.TextBox txtUF;
 
         /// <summary>
-        /// btnGravar control.
+        /// btnSalvar control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnGravar;
+        protected global::System.Web.UI.WebControls.Button btnSalvar;
 
         /// <summary>
         /// lblResultado control.
