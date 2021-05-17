@@ -34,7 +34,7 @@ namespace Asp.NetBD1
                 Conexao.Conectar();
 
                 cmd.ExecuteNonQuery();
-                lblResultado.Text = "Cliente Inserido";
+                Response.Redirect("Listar.aspx");
             }
             catch (Exception ex)
             {
