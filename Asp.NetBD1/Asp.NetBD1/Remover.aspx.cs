@@ -101,5 +101,10 @@ namespace Asp.NetBD1
                 Conexao.Desconectar();
             }
         }
+
+        protected void btnVoltar_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("listar.aspx");
+        }
     }
 }

@@ -87,6 +87,15 @@ namespace Asp.NetBD1
         protected global::System.Web.UI.WebControls.TextBox txtUF;
 
         /// <summary>
+        /// btnVoltar control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnVoltar;
+
+        /// <summary>
         /// btnAlterar control.
         /// </summary>
         /// <remarks>

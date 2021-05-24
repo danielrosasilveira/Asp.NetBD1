@@ -55,4 +55,10 @@
                 Enabled="false"></asp:TextBox>
         </div>
     </div>
+    <div class="row" style="margin-top: 15px">
+        <div class="text-right col-md-12">
+            <asp:Button ID="btnVoltar" CssClass="btn btn-info" runat="server"
+                text="Voltar" OnClick="btnVoltar_Click" />           
+        </div>
+    </div>
 </asp:Content>

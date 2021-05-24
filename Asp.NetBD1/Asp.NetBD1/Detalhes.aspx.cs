@@ -82,5 +82,10 @@ namespace Asp.NetBD1
             return id;
         }
         #endregion
+
+        protected void btnVoltar_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("listar.aspx");
+        }
     }
 }

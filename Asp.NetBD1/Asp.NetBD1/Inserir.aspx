@@ -76,7 +76,7 @@
         </div>
     </div>
     <div class="row" style="margin-top: 15px">
-        <div class="text-right col-md-12">
+        <div class="text-right col-md-12">            
             <asp:Button ID="btnSalvar" CssClass="btn btn-primary" runat="server" Text="Salvar" OnClick="btnSalvar_Click" />
         </div>
     </div>
